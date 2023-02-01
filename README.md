@@ -1,5 +1,5 @@
 ## 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oris482&show_icons=true&theme=radical)
 [![jaesjeon's 42 stats](https://badge42.vercel.app/api/v2/cla2ehfnp00440gkv2n649tk1/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
